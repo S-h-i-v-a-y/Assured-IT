@@ -3550,7 +3550,7 @@ fieldset:disabled .btn {
 }
 
 .btn-secondary {
-    background-color: #f6f9fe;
+    /* background-color: #f6f9fe; */
     border-color: #0b6369;
     color: #303031
 }
